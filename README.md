@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋, I'm Subham Kumar Singh
 
-<!--
-**Subh10infinity/Subh10infinity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | Problem Solver | Tech Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🔭 Currently working on real-world projects
+- 🌱 Learning and improving every day
+- 💡 Strong in problem solving & DSA
+- ⚡ Love turning ideas into working solutions
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: C++, Java, Python
+- 🌐 Web: HTML, CSS, JavaScript
+- 🗄️ Database: SQL, MongoDB
+- ⚙️ Tools: Git, GitHub
+
+---
+
+## 📊 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/u/_10subh/
+- 🔗 HackerRank: https://www.hackerrank.com/profile/_10Subh
+- 🔗 GitHub: https://github.com/Subh10infinity
+
+---
+
+## 🏆 Achievements
+- ⭐ 5 Star in C++ (HackerRank)
+- 💻 Solved 650+ problems (Torri)
+- 📈 Active competitive programmer
+
+---
+
+## 📫 Contact Me
+- 📧 Email: subh.raajput@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/singhkrsubham049/
