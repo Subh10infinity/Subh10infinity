@@ -21,7 +21,7 @@
 - 💻 Languages: C++, Java, Python
 - 🌐 Web: HTML, CSS, JavaScript
 - 🗄️ Database: SQL, MongoDB
-- ⚙️ Tools: Git, GitHub
+- ⚙️ Tools: Git, GitHub, Vs code
 
 ---
 
